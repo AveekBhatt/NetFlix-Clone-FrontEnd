@@ -1,0 +1,110 @@
+.container {
+    display: inline-flex;
+    overflow: hidden;
+    height: 154px;
+    width: 1838px;
+    scroll-behavior: smooth;
+  }
+  #mv1{
+    margin-left: 2px;
+    width: 221px;
+    height: 125px;
+  }
+  .Suggestions {
+    height: 634px;
+    display: block;
+    background-color: black;
+    width: 1846px;
+    padding: 0px;
+  }
+  #btn1 {
+    height: 125px;
+    border-radius: 1px;
+    font-weight: bold;
+    color: #f70c0c;
+    background: black;
+    border: 0px;
+  }
+  #btn2 {
+    float: right;
+    height: 154px;
+    border-radius: 1px;
+    filter: alpha(opacity=90);
+    font-weight: bold;
+    color: red;
+    background-color: black;
+    border: 0px;
+  }
+  #content {
+    overflow: hidden;
+    display: inline-flex;
+    scroll-behavior: smooth;
+  }
+  
+  #sp1 {
+    margin-left: 52px;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+  }
+  #sp2 {
+    margin-left: 66px;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+  }
+  #sp3 {
+    margin-left: 42px;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+  }
+  #sp4 {
+    margin-left: 11px;
+    font-size: 11px;
+    color: white;
+    font-weight: bold;
+  }
+  #sp5 {
+    margin-left: 89px;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+  }
+  .shows {
+    display: inline-flex;
+    overflow: hidden;
+    height: 327px;
+    width: 1838px;
+    margin-top: 10px;
+    scroll-behavior: smooth;
+  }
+  #imgs {
+    min-width: 211px;
+    height: 292px;
+    padding-right: 4px;
+  }
+  #btns1 {
+    height: 293px;
+    border: 0px;
+    margin-left: 0px;
+    color: red;
+    background-color: black;
+  }
+  #contents {
+    overflow: hidden;
+    display: inline-flex;
+    scroll-behavior: smooth;
+  }
+  #btns2 {
+    border: 0px;
+    height: 293px;
+    color: red;
+    background-color: black;
+  }
+  h1 {
+    font-weight: bold;
+    color: red;
+    margin-top: 9px;
+    margin-left: 6px;
+  }
